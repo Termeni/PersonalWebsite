@@ -21,6 +21,14 @@ a.active {
   color: #4CAF50;
   outline: none;
 }
+a.light,
+a.light:hover,
+a.light:focus,
+a.light:active,
+a.light.active {
+  color: #203E7E;
+  outline: none;
+}
 h1,
 h2,
 h3,
